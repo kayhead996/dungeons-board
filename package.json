@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kayhead996/dungeons_board.git"
+    "url": "git+https://github.com/kayhead996/dungeons-board.git"
   },
   "author": "Keyur Ved",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kayhead996/dungeons_board/issues"
+    "url": "https://github.com/kayhead996/dungeons-board/issues"
   },
-  "homepage": "https://github.com/kayhead996/dungeons_board#readme"
+  "homepage": "https://github.com/kayhead996/dungeons-board#readme"
 }
