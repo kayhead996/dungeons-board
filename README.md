@@ -7,5 +7,7 @@ A web-based live board for D&D.
 
 Install node version 9.0+, npm
 
-`npm install`  
-`npm start`
+```sh
+$ npm install
+$ npm start
+```
