@@ -1,0 +1,19 @@
+{
+  "name": "dungeons_board",
+  "version": "1.0.0",
+  "description": "Live updating board for D&D",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayhead996/dungeons_board.git"
+  },
+  "author": "Keyur Ved",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayhead996/dungeons_board/issues"
+  },
+  "homepage": "https://github.com/kayhead996/dungeons_board#readme"
+}
